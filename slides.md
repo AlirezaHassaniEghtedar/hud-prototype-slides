@@ -1,6 +1,7 @@
 ---
 theme: default
 title: Automotive Head-Up Display — HUD Prototype
+titleTemplate: '%s'
 favicon: '/fav-icon.svg'
 info: |
   ## Automotive Head-Up Display (HUD) Prototype
