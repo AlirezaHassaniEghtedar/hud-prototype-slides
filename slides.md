@@ -1,6 +1,7 @@
 ---
 theme: default
 title: Automotive Head-Up Display — HUD Prototype
+favicon: '/fav-icon.svg'
 info: |
   ## Automotive Head-Up Display (HUD) Prototype
   Research and prototype development of an embedded HUD system.
